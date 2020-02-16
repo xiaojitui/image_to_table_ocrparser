@@ -26,7 +26,7 @@ The result is in the format of:
 Notes about automatic table detection
 - (1) if you do not want to automatically detect tables by frcnn, please provide table boundaries as './results/preresult.txt' (use the format as shown), and indicate 'has_predict = True' in 'img_to_table.py'
 - (2) if you want to automatically detect tables by frcnn, please
--  (a) save the Config file as './pretrained_frcnn/config.pickle'
+-- (a) save the Config file as './pretrained_frcnn/config.pickle'
 -  (b) save the pretrained model as './pretrained_frcnn/model_frcnn.hdf5'
 -  (c) install keras 2.2.4, by pip install --user keras==2.2.4. 
 -  (d) indicate 'has_predict = False' in 'img_to_table.py'
