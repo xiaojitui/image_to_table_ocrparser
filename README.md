@@ -1,6 +1,6 @@
 # image_to_table_ocrparser
 
-The script is used to parse tables in an image or a PDF file. 
+The script is used to parse tables in an image or a scanned PDF file. 
 
 The algorithm is based on image processing and OCR (Optical Character Recognition) techniques*.
 
